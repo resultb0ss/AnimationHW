@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnimationHW</string>
+    <string name="second_activity_sign_in_button_text">Зарегистрироваться</string>
+    <string name="second_activity_login_edit_text_hint">Login</string>
+    <string name="second_activity_password_edit_text_hin">Password</string>
+    <string name="second_activity_title_text_view_text">Регистрация</string>
+    <string name="main_activity_start_button_text">Начать</string>
+</resources>
